@@ -108,6 +108,7 @@ header {
   align-items: center;
 }
 .top-bar .shop-icon .serch-icon {
+  padding: 10px;
   margin-right: 40px;
   opacity: 0.6;
 }
